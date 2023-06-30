@@ -11,4 +11,3 @@
     <td align="center" width="96"><img src="./css icon.png" width="48" height="48" /><br>CSS</td>
     <td align="center" width="96"><img src="./sql icon.png" width="48" height="48" /><br>SQL</td></tr>
   </table>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Vikashini-G&theme=midnight-purple&type=png&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats) 
