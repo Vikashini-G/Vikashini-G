@@ -4,7 +4,7 @@
 ## 🚀💻 Technologies & Tools
 >Tools I've delved into so far
 <table>
-    <tr><td align="center" width="96"><img src="[https://icons8.com/icon/40670/c-programming](https://github.com/Vikashini-G/Vikashini-G/blob/main/C%20icon.png)" width="48" height="48" /><br>C</td>
+    <tr><td align="center" width="96"><img src="./C icon.png" width="48" height="48" /><br>C</td>
     <td align="center" width="96"><img src="https://icons8.com/icon/40670/c-programming" width="48" height="48" /><br>C++</td>
     <td align="center" width="96"><img src="https://icons8.com/icon/40670/c-programming" width="48" height="48" /><br>python</td>
     <td align="center" width="96"><img src="https://icons8.com/icon/20909/html-5" width="48" height="48" /><br>html</td>
