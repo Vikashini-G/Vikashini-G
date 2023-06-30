@@ -5,10 +5,10 @@
 >Tools I've delved into so far
 <table>
     <tr><td align="center" width="96"><img src="./C icon.png" width="48" height="48" /><br>C</td>
-    <td align="center" width="96"><img src="https://icons8.com/icon/40670/c-programming" width="48" height="48" /><br>C++</td>
-    <td align="center" width="96"><img src="https://icons8.com/icon/40670/c-programming" width="48" height="48" /><br>python</td>
-    <td align="center" width="96"><img src="https://icons8.com/icon/20909/html-5" width="48" height="48" /><br>html</td>
-    <td align="center" width="96"><img src="https://icons8.com/icon/21278/css3" width="48" height="48" /><br>CSS</td>
-    <td align="center" width="96"><img src="https://icons8.com/icon/qGUfLiYi1bRN/my-sql" width="48" height="48" /><br>SQL</td></tr>
+    <td align="center" width="96"><img src="./cpp icon.png" width="48" height="48" /><br>C++</td>
+    <td align="center" width="96"><img src="./python icon.png" width="48" height="48" /><br>python</td>
+    <td align="center" width="96"><img src="./html icon.png" width="48" height="48" /><br>html</td>
+    <td align="center" width="96"><img src="./css icon.png" width="48" height="48" /><br>CSS</td>
+    <td align="center" width="96"><img src="./sql icon.png" width="48" height="48" /><br>SQL</td></tr>
   </table>
   
