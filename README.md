@@ -4,11 +4,11 @@
 ## 🚀💻 Technologies & Tools
 >Tools I've delved into so far
 <table>
-    <tr><td align="center" width="96"><img src="https://icons8.com/icon/40670/c-programming" width="48" height="48" /><br>C</td></tr>
-    <tr><td align="center" width="96"><img src="https://icons8.com/icon/40670/c-programming" width="48" height="48" /><br>C++</td></tr>
-    <tr><td align="center" width="96"><img src="https://icons8.com/icon/40670/c-programming" width="48" height="48" /><br>python</td></tr>
-    <tr><td align="center" width="96"><img src="https://icons8.com/icon/20909/html-5" width="48" height="48" /><br>html</td></tr>
-    <tr><td align="center" width="96"><img src="https://icons8.com/icon/21278/css3" width="48" height="48" /><br>CSS</td></tr>
-    <tr><td align="center" width="96"><img src="https://icons8.com/icon/qGUfLiYi1bRN/my-sql" width="48" height="48" /><br>SQL</td></tr>
+    <tr><td align="center" width="96"><img src="https://icons8.com/icon/40670/c-programming" width="48" height="48" /><br>C</td>
+    <td align="center" width="96"><img src="https://icons8.com/icon/40670/c-programming" width="48" height="48" /><br>C++</td>
+    <td align="center" width="96"><img src="https://icons8.com/icon/40670/c-programming" width="48" height="48" /><br>python</td>
+    <td align="center" width="96"><img src="https://icons8.com/icon/20909/html-5" width="48" height="48" /><br>html</td>
+    <td align="center" width="96"><img src="https://icons8.com/icon/21278/css3" width="48" height="48" /><br>CSS</td>
+    <td align="center" width="96"><img src="https://icons8.com/icon/qGUfLiYi1bRN/my-sql" width="48" height="48" /><br>SQL</td></tr>
   </table>
   
