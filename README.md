@@ -13,7 +13,9 @@
 ## 🧰💻 My toolbox
 >Languages I've delved into so far
 <table>
-    <tr><td align="center" width="96"><img src="./imgs/C icon.png" width="48" height="48" /><br>C</td>
+    <tr>
+    <td align="center" width="96"><img src="./imgs/javascript icon.png" width="48" height="48" /><br>JavaScript</td>
+    <td align="center" width="96"><img src="./imgs/C icon.png" width="48" height="48" /><br>C</td>
     <td align="center" width="96"><img src="./imgs/cpp icon.png" width="48" height="48" /><br>C++</td>
     <td align="center" width="96"><img src="./imgs/python icon.png" width="48" height="48" /><br>python</td>
     <td align="center" width="96"><img src="./imgs/html icon.png" width="48" height="48" /><br>html</td>
